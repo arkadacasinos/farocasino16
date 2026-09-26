@@ -81,6 +81,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${_geistSans.variable} ${_geistMono.variable}`}>
       <head>
+        <meta name="yandex-verification" content="15e425f2d4cf278d" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes" />
         <meta name="theme-color" content="#0d0d10" />
